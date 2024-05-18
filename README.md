@@ -10,7 +10,7 @@ This project is aimed at automating end-to-end testing for the TheJobs using the
 
 Navigate to the project directory and install the required dependencies using npm:
 
-DM-Cypress-test
+cd DM-Cypress-test
 
 npm install
 
